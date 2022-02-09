@@ -1,4 +1,4 @@
-# urna-eletronica-virtual 0.5
+# urna-eletronica-virtual V0.5
 Projeto que simula uma urna eletrônica virtual
 
 Basta digitar o nome cadastrado do seu vereador e prefeito Funcional
